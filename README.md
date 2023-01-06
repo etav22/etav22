@@ -8,7 +8,7 @@ Prior to my role as a data scientist I was a chemical engineer post-graduation f
 
 Outside of work, I enjoy:
 
-- ⚽️ Sports | Specially /~futbol~ (I am a big Liverpool fan) but love all sports and doing anything that keeps me moving 🏃🏽‍♂️
+- ⚽️ Sports | Specially \~futbol~ (I am a big Liverpool fan) but love all sports and doing anything that keeps me moving 🏃🏽‍♂️
 - 📚 Reading | Which unfortunately, I don't have as much time as I'd like because of school, but I try to keep up 
 - 🎥 Movies | I thoroughly enjoy a good film and specially love watching them with my sister
 
